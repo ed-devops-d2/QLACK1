@@ -5,7 +5,7 @@
   <groupId>com.eurodyn.qlack</groupId>
   <artifactId>Qlack</artifactId>
   <packaging>pom</packaging>
-  <version>1.7.7-SNAPSHOT</version>
+  <version>1.6.8</version>
   <name>Qlack1</name>
 
   <description>QLACK1 project (Java modules)</description>
@@ -31,7 +31,7 @@
     <developerConnection>scm:git:git@github.com:ed-devops-d2/QLACK1.git
     </developerConnection>
     <url>https://github.com/ed-devops-d2/QLACK1.git</url>
-    <tag>1.7.0</tag>
+    <tag>1.6.8</tag>
   </scm>
   <distributionManagement>
     <snapshotRepository>
